@@ -21,7 +21,7 @@ const Footer = () => (
           </div>
 
           <p className="text-cream/60 text-sm font-lora leading-relaxed mb-4">
-            Menghadirkan cita rasa kopi asli Nusantara dengan kualitas terbaik untuk semua kalangan.
+            Menghadirkan cita rasa khas Magetan dengan kualitas terbaik untuk semua kalangan.
           </p>
 
           <p className="text-gold text-sm font-medium">

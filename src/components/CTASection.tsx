@@ -21,7 +21,7 @@ const CTASection = () => (
         Ingin Menikmati Kopi <span className="text-gold">Berkualitas?</span>
       </h2>
       <p className="text-cream/70 text-lg font-lora mb-10 max-w-xl mx-auto">
-        Pesan sekarang dan rasakan cita rasa kopi asli Nusantara. Kami siap mengantar ke lokasi Anda!
+        Pesan sekarang dan rasakan cita rasa kopi asli Magetan. Kami siap mengantar ke lokasi Anda!
       </p>
       <a
         href={WA_LINK}
