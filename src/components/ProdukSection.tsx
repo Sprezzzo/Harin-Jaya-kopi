@@ -8,7 +8,7 @@ const products = [
       name: "Kopi Bubuk Original",
     desc: "Kopi bubuk halus dengan aroma khas dan rasa yang mantap. Cocok untuk penyajian tradisional maupun modern.",
     price: "Rp 25.000",
-    image: "public/kopi bubuk.webp",
+    image: "https://i.imgur.com/Grh8vI1.jpeg",
   },
 ];
 
