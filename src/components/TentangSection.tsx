@@ -18,7 +18,7 @@ const TentangSection = () => (
             Kopi Berkualitas dari <span className="text-primary">Harin Jaya Kopi</span>
           </h2>
           <p className="text-muted-foreground leading-relaxed mb-8 font-lora">
-            Harin Jaya Kopi adalah usaha kopi lokal yang menghadirkan cita rasa khas Nusantara dengan kualitas terbaik.
+            Harin Jaya Kopi adalah usaha kopi lokal asal Magetan, Jawa Timur. Kami menghadirkan cita rasa khas Magetan dengan kualitas terbaik.
             Kami berkomitmen memberikan pengalaman minum kopi yang autentik, aman, dan terjangkau untuk semua kalangan.
           </p>
           <div className="grid grid-cols-2 gap-4">

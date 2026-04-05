@@ -44,15 +44,14 @@ const Footer = () => (
               +62 821-4360-0041 (WhatsApp)
             </a>
 
-            <a
-              href="https://instagram.com/harinjayakopi"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-3 text-cream/60 hover:text-gold transition-colors text-sm"
-            >
-              <Instagram className="h-4 w-4" />
-              @harinjayakopi
-            </a>
+            <a 
+  href="https://shopee.co.id/harintoko?categoryId=100629&entryPoint=ShopByPDP&itemId=54403174804" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="flex items-center gap-3 text-cream/60 hover:text-gold transition-colors text-sm"
+>
+  🛒 Shopee
+</a>
 
             <div className="flex items-start gap-3 text-cream/60 text-sm">
               <MapPin className="h-4 w-4 mt-0.5 shrink-0" />

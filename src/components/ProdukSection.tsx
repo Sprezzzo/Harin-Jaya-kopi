@@ -5,22 +5,10 @@ const WA_LINK = "https://wa.me/6282143600041?text=Halo%2C%20saya%20ingin%20memes
 
 const products = [
   {
-    name: "Kopi Bubuk Original",
+      name: "Kopi Bubuk Original",
     desc: "Kopi bubuk halus dengan aroma khas dan rasa yang mantap. Cocok untuk penyajian tradisional maupun modern.",
     price: "Rp 25.000",
-    image: "https://cdn.pixabay.com/photo/2013/11/05/23/55/coffee-206142_1280.jpg",
-  },
-  {
-    name: "Kopi Hitam Premium",
-    desc: "Racikan kopi hitam premium dari biji pilihan, menghasilkan rasa bold dan kaya. Untuk penikmat kopi sejati.",
-    price: "Rp 35.000",
-    image: "https://cdn.pixabay.com/photo/2019/09/29/08/12/coffee-4512564_1280.jpg",
-  },
-  {
-    name: "Kopi Susu Blend",
-    desc: "Perpaduan sempurna kopi dan susu yang creamy. Cocok untuk yang suka rasa kopi lembut dan nikmat.",
-    price: "Rp 30.000",
-    image: "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=600&q=80",
+    image: "public/kopi bubuk.webp",
   },
 ];
 

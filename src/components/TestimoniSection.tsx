@@ -2,9 +2,9 @@ import { Star, Quote } from "lucide-react";
 import FadeIn from "./FadeIn";
 
 const testimonials = [
-  { name: "Budi Santoso", text: "Rasanya mantap dan khas! Kopi terbaik yang pernah saya coba dari produsen lokal.", location: "Jakarta" },
-  { name: "Siti Rahayu", text: "Harga terjangkau tapi kualitas premium. Sudah jadi langganan tetap!", location: "Bandung" },
-  { name: "Ahmad Rizki", text: "Pelayanan cepat dan bisa antar ke rumah. Sangat memudahkan, terima kasih!", location: "Surabaya" },
+  { name: "Budi Santoso", text: "Ternyata kopinya enak. Walaupun murah tapi menurut saya pas di lidah saya. Dengan pahitnya yg pas juga menambah kenikmatan. Udah coba macem2 kopi murah yg di jual di shopee tapi menurutku ini yg paling enak.", location: "Jakarta" },
+  { name: "Siti Rahayu", text: "Packing bagus rapi dan aman, dengan bublewrap sehingga barang diterima dengan baik sesuai deskripsi. Ukuran pas 500gr.sudah dua kali beli disini. Biasanya saya campur dengan kopi kapal api, top, atau gajah. Lebih nikmat. Thanks seller dan pak kurir.", location: "Bandung" },
+  { name: "Ahmad Rizki", text: "Paket dah sampai sesuai pesanan...exp aman...cocok rasa dan harganya...Makasih Kak...🙏", location: "Surabaya" },
 ];
 
 const TestimoniSection = () => (

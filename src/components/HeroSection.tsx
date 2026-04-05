@@ -23,15 +23,15 @@ const HeroSection = () => (
 
     <div className="relative z-10 max-w-4xl mx-auto px-4 text-center animate-fade-in">
       <p className="text-gold font-medium tracking-[0.3em] uppercase text-sm mb-4">
-        Kopi Pilihan Nusantara
+        Kopi Pilihan Asli Magetan, Jawa Timur
       </p>
       <h1 className="font-playfair text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-cream leading-tight mb-6">
         Nikmati Cita Rasa
         <br />
-        <span className="text-gold">Kopi Asli Nusantara</span>
+        <span className="text-gold">Kopi Asli Khas Magetan</span>
       </h1>
       <p className="text-cream/70 text-lg md:text-xl max-w-2xl mx-auto mb-10 font-lora">
-        Harin Jaya Kopi — kopi berkualitas dengan cita rasa autentik, langsung dari biji pilihan terbaik Indonesia.
+        Harin Jaya Kopi — kopi berkualitas dengan cita rasa autentik, langsung dari biji pilihan terbaik dari dataran tinggi Magetan.
       </p>
       <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
         <a
