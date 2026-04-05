@@ -46,7 +46,7 @@ const TentangSection = () => (
             </div>
             <div className="absolute -bottom-4 -left-4 bg-primary text-primary-foreground rounded-xl p-4 shadow-lg">
               <p className="font-playfair text-2xl font-bold">100%</p>
-              <p className="text-sm opacity-90">Kopi Asli</p>
+              <p className="text-sm opacity-90">Kopi Pilihan Khas Magetan</p>
             </div>
           </div>
         </FadeIn>

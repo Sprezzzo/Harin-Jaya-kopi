@@ -28,7 +28,7 @@ const HeroSection = () => (
       <h1 className="font-playfair text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-cream leading-tight mb-6">
         Nikmati Cita Rasa
         <br />
-        <span className="text-gold">Kopi Asli Khas Magetan</span>
+        <span className="text-gold">Kopi Khas Magetan</span>
       </h1>
       <p className="text-cream/70 text-lg md:text-xl max-w-2xl mx-auto mb-10 font-lora">
         Harin Jaya Kopi — kopi berkualitas dengan cita rasa autentik, langsung dari biji pilihan terbaik dari dataran tinggi Magetan.
